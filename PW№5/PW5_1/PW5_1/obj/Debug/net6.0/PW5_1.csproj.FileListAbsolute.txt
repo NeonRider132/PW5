@@ -1,0 +1,30 @@
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\bin\Debug\net6.0\PW5_1.exe
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\bin\Debug\net6.0\PW5_1.deps.json
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\bin\Debug\net6.0\PW5_1.runtimeconfig.json
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\bin\Debug\net6.0\PW5_1.dll
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\bin\Debug\net6.0\PW5_1.pdb
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.csproj.AssemblyReference.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.AssemblyInfoInputs.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.AssemblyInfo.cs
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.csproj.CoreCompileInputs.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.dll
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\obj\Debug\net6.0\refint\PW5_1.dll
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.pdb
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.genruntimeconfig.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр5\PW5_1\PW5_1\obj\Debug\net6.0\ref\PW5_1.dll
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\bin\Debug\net6.0\PW5_1.exe
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\bin\Debug\net6.0\PW5_1.deps.json
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\bin\Debug\net6.0\PW5_1.runtimeconfig.json
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\bin\Debug\net6.0\PW5_1.dll
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\bin\Debug\net6.0\PW5_1.pdb
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.AssemblyInfo.cs
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.dll
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\obj\Debug\net6.0\refint\PW5_1.dll
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.pdb
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\obj\Debug\net6.0\PW5_1.genruntimeconfig.cache
+C:\Users\Максим\Desktop\учёба @_@\Крутой препод\PW№5\PW5_1\PW5_1\obj\Debug\net6.0\ref\PW5_1.dll
